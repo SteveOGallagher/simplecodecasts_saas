@@ -17,7 +17,7 @@ end
 # Use bootstrap library for styles
 gem 'bootstrap-sass', '3.3.1'
 #Use Font Awesome library for icons
-gem 'font-awesome-sass', '4.3.0'
+gem 'font-awesome-sass', '4.2.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.3'
 # Use Uglifier as compressor for JavaScript assets
@@ -46,7 +46,7 @@ gem 'devise'
 gem 'stripe', '1.16.1'
 
 # Use figaro to hide secret keys
-gem 'figaro', '1.0'
+gem 'figaro', '1.0.0'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
